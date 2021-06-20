@@ -60,3 +60,18 @@
 .port{
     margin:180px;
 }
+
+.cont{
+    background-image: url("/static/images/assets/backgrounds/c_image.jpg");
+    height: 60vh;
+    margin-top: 50px;
+}
+
+input{
+    opacity: 0.1;
+}
+
+::placeholder{
+    color: #fff;
+    opacity: 0.2;
+}
