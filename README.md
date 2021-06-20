@@ -25,6 +25,7 @@
     -BOOTSTRAP
     - CSS
     - JS
+    -Jquery
   
 ## Contact information
     - cynthia.lovine@student.moringaschool.com
