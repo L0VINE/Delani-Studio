@@ -35,3 +35,13 @@
     margin-top: 40px;
     font-weight: bold;
 }
+
+.services{
+    background-image: url("/static/images/assets/backgrounds/s_image.jpg");
+    height: 50vh;
+}
+
+.s-cont{
+    text-align: center;
+    color: #fff;
+    padding-top: 150px;
