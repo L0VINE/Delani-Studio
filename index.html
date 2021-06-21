@@ -159,14 +159,25 @@
     <div class="cont">
         <h1>CONTACT US</h1>
     
-        <form class="text-white" id="form1">
-          <div class="form-group form-inline">
-            <input type="text" class="form-control input" id="name" placeholder="Name..." required>
-            <input type="email" class="form-control input" id="email" placeholder="name@email.com" required>
+        <form id="form">
+          <div class="row">
+              <div class="col-md-2 form"></div>
+              <input class="col-md-4 form-control name" type="text" id="name" name="name" placeholder="Name..."
+                     required><br><br>
+              <input class="col-md-4 form-control email" type="email" id="email" name="email" placeholder="Email..."
+                     required>
+              <div class="col-md-2">
+              </div>
           </div>
-          <textarea name="name" rows="8" cols="100" id="message" placeholder="Your message here..."></textarea>
-          <input type="submit" value="submit" class="text-white">
-        </form>
+          <div class="row input">
+              <div class="col-md-2"></div>
+              <textarea class="form-control col-md-8 text" rows="12" name="message" id="message"
+                        placeholder="Your message here..."></textarea>
+              <div class="col-md-2"></div>
+          </div>
+          <button class="btn btn-success mx-auto d-block submit" id="okButton" type="submit">Submit</button>
+          <br>
+      </form>
     <!-- End of Contact Us -->
      <!-- Start of footer-->
     <footer>
