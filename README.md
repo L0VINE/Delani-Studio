@@ -19,7 +19,7 @@
 Tell the user through a pop up that you have received their message and also thank them for contacting you . Use mail chimp API to track all the emails and messages from your usersHost your website to github pages
 
 ## Live link
-    Deployed project can be accessed here -  [Delani Studio](https://l0vine.github.io/Akan-Names/)
+    Deployed project can be accessed here -  [Delani Studio]( https://l0vine.github.io/Delani-Studio/)
 ​
 ## Technologies used
     - HTML
