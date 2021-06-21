@@ -2,8 +2,7 @@
     - Delani Studio
 ​
 ## Project description
-    -A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
-  
+    -A website that accepts a users email and message and alerts them that the email has been received.All  these concepts are implemented using jquery and javascript.Also on hover and clicking, text is displayed .
 ​
 ## Author(s) information
     - Cynthia Lovine
@@ -16,9 +15,11 @@
 ​
 ## BDD
     
-​The website will require a user to fill out information about his date of birth and the year he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user.
+​Implement everything learnt from Bootstrap and jQuery to recreate a landing page for a studio.The 'What we do'  icons when clicked should toggle between the respective description of each icon. The description should be centered aligned. The header should be in bold and centered also. This should be achieved by using jQuery.Create a Hover effect for the **Portfolio ** sections such that on hover a white box appears with then name of the project inside. The project picture should still be visible in the background. This should be achieved using jQuery.The site should be responsive.
+Tell the user through a pop up that you have received their message and also thank them for contacting you . Use mail chimp API to track all the emails and messages from your usersHost your website to github pages
+
 ## Live link
-    Deployed project can be accessed here -  [Akan Names Generator](https://l0vine.github.io/Akan-Names/)
+    Deployed project can be accessed here -  [Delani Studio](https://l0vine.github.io/Akan-Names/)
 ​
 ## Technologies used
     - HTML
