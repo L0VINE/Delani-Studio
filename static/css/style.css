@@ -1,5 +1,5 @@
 .home{
-    background-image: url("/static/images/assets/backgrounds/h_img.jpg");
+    background-image: url("static/images/assets/backgrounds/h_img.jpg");
     height: 100vh;
     color: #fff;
 }
@@ -37,7 +37,7 @@
 }
 
 .services{
-    background-image: url("/static/images/assets/backgrounds/s_image.jpg");
+    background-image: url("static/images/assets/backgrounds/s_image.jpg");
     height: 50vh;
 }
 
@@ -90,7 +90,7 @@ margin-bottom: 2%;
     padding-bottom: 2%;
 }
 .cont{
-    background-image: url("/static/images/assets/backgrounds/c_image.jpg");
+    background-image: url("static/images/assets/backgrounds/c_image.jpg");
     height: 70vh;
     margin-top: 50px;
 }
