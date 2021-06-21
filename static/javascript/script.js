@@ -45,6 +45,11 @@ $(function () {
         $(protext).animate({fontWeight:'normal',fontSize:'16px'})
     })
 
+    $('.portimg').hover(function(){
+        $('.porttext',this).slideToggle('slow');
+     }, function(){
+        $('.porttext',this).slideToggle('slow');
+     });
 
 //Form Validation
         $("form#form").on('submit',function(event){
